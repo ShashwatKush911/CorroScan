@@ -9,3 +9,9 @@ Integrity Pilot without needing direct access to Claude Code chat sessions.
 > If something here looks wrong or unclear, ask Shashwat directly rather than trusting it blindly.
 
 ---
+
+## 2026-09-16
+
+- **Done:** Finalized the pilot's program documentation — the PRD/TRD went through an architecture-review revision (Rev. 3) and then a Final revision (Rev. 4), and all PRD/TRD/change-note docs were reorganized into a `docs/` folder.
+- **Blocked:** Nothing currently blocked.
+- **Next:** Break down Week 1 tasks for Tracks 3 & 4 in the local tracker (currently just a placeholder) now that the Final PRD/TRD is settled.
